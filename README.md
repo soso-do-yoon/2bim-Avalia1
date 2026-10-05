@@ -24,4 +24,4 @@ Framework preset: `None`. Build command: vazio. Build output directory: `public`
 
 Nome: Sophia Vitoria Kramer de Liz
 RA: 2026109069
-URL: https://2bim-avalia1-bdc.pages.dev
+URL: https://desenho-assinado-sophia.pages.dev
